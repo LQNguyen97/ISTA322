@@ -1,0 +1,7 @@
+C:\Users\nguye\quantico06\ISTA322\labs\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\nguye\quantico06\ISTA322\labs\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\nguye\quantico06\ISTA322\labs\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\nguye\quantico06\ISTA322\labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojAssemblyReference.cache
+C:\Users\nguye\quantico06\ISTA322\labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\nguye\quantico06\ISTA322\labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\nguye\quantico06\ISTA322\labs\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

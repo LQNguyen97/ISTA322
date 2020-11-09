@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="C:\Users\nguye\quantico06\ISTAProject\ProjectStep10.cshtml" Link="ProjectStep10.cshtml" />
+  </ItemGroup>
+
+</Project>

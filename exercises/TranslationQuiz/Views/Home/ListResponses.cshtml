@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TranslationQuiz.Models.StudentInput>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Grade</title>
+</head>
+<body>
+    <h2>List of all students and their grades</h2>
+    <table>
+        <thead>
+            <tr><th>FirstName</th><th>LastName</th><th>StudentID</th><th>Grades</th></tr>
+        </thead>
+        <tbody>
+            @foreach (TranslationQuiz.Models.StudentInput r in Model)
+            {
+                <tr>
+                    <td>@r.FirstName</td>
+                    <td>@r.LastName</td>
+                    <td>@r.StudentID</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
